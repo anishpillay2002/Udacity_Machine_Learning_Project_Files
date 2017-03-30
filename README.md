@@ -1,3 +1,7 @@
+## Anish's Notes:
+Refer to this Repo if you need to run solution python notebooks and code from the machine learning course
+
+
 # machine-learning
 Content for Udacity's Machine Learning curriculum, which includes projects and their descriptions.
 
